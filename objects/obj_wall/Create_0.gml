@@ -1,0 +1,1 @@
+instance_create_layer(x, y, "Walls", obj_wall_mouse_collision);
