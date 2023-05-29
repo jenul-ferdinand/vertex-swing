@@ -1,10 +1,10 @@
 {
   "option_windows_display_name": "Vertex Swing",
   "option_windows_executable_name": "${project_name}",
-  "option_windows_version": "1.0.0.0",
+  "option_windows_version": "0.0.0.0",
   "option_windows_company_info": "Jenul Ferdinand",
   "option_windows_product_info": "",
-  "option_windows_copyright_info": "(c) 2018 CompanyName",
+  "option_windows_copyright_info": "(c) 2023 Ferdinand",
   "option_windows_description_info": "Swing To The Top",
   "option_windows_display_cursor": false,
   "option_windows_icon": "${options_dir}/windows/icons/icon.ico",
